@@ -1,20 +1,10 @@
 import React from 'react';
-import styled from 'styled-components';
-
-const Button = styled.button`
-   {
-    width: 100px;
-    height: 50px;
-    background-color: red;
-    color: white;
-  }
-`;
+import Navbar from './components/navigation/Navbar';
 
 const Nav: React.FC = () => {
   return (
     <div>
-      <h1>Hello</h1>
-      <Button>Bay</Button>
+      <Navbar />
     </div>
   );
 };
