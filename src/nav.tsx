@@ -4,7 +4,7 @@ import Navbar from './components/navigation/Navbar';
 const Nav: React.FC = () => {
   return (
     <div>
-        {'hello'}
+        {'hello1'}
       <Navbar />
     </div>
   );
