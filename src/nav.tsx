@@ -5,7 +5,6 @@ const Nav: React.FC = () => {
   return (
     <div>
         {'hello1'}
-        {'jj'}
       <Navbar />
     </div>
   );
