@@ -5,6 +5,8 @@ const Nav: React.FC = () => {
   return (
     <div>
         {'hello2'}
+        {'hello'}
+        {'rrr'}
       <Navbar />
     </div>
   );
