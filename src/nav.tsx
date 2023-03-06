@@ -7,6 +7,7 @@ const Nav: React.FC = () => {
         {'hello2'}
         {'hello'}
         {'rrr'}
+        {'changeTasj'}
       <Navbar />
     </div>
   );
